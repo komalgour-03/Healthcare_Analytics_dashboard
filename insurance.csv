@@ -1,0 +1,51 @@
+Insurance_ID,Patient_ID,Provider,Coverage_Percentage
+5001,1001,"Star Health",80
+5002,1002,"Niva Bupa",90
+5003,1003,"HDFC ERGO",75
+5004,1004,"ICICI Lombard",85
+5005,1005,"Care Health",70
+5006,1006,"Tata AIG",90
+5007,1007,"Aditya Birla Health",80
+5008,1008,"Reliance General",75
+5009,1009,"Star Health",85
+5010,1010,"Niva Bupa",80
+5011,1011,"HDFC ERGO",90
+5012,1012,"ICICI Lombard",75
+5013,1013,"Care Health",85
+5014,1014,"Tata AIG",80
+5015,1015,"Star Health",90
+5016,1016,"Niva Bupa",70
+5017,1017,"Reliance General",80
+5018,1018,"Aditya Birla Health",85
+5019,1019,"Care Health",75
+5020,1020,"ICICI Lombard",90
+5021,1021,"Star Health",80
+5022,1022,"HDFC ERGO",85
+5023,1023,"Niva Bupa",75
+5024,1024,"Tata AIG",90
+5025,1025,"Care Health",80
+5026,1026,"HDFC ERGO",85
+5027,1027,"ICICI Lombard",80
+5028,1028,"Star Health",90
+5029,1029,"Care Health",75
+5030,1030,"Niva Bupa",85
+5031,1031,"Reliance General",70
+5032,1032,"Tata AIG",80
+5033,1033,"Aditya Birla Health",90
+5034,1034,"Star Health",75
+5035,1035,"HDFC ERGO",85
+5036,1036,"Care Health",80
+5037,1037,"ICICI Lombard",90
+5038,1038,"Niva Bupa",75
+5039,1039,"Reliance General",85
+5040,1040,"Star Health",80
+5041,1041,"Tata AIG",90
+5042,1042,"Care Health",75
+5043,1043,"HDFC ERGO",80
+5044,1044,"Aditya Birla Health",85
+5045,1045,"ICICI Lombard",70
+5046,1046,"Niva Bupa",90
+5047,1047,"Star Health",80
+5048,1048,"Care Health",85
+5049,1049,"Reliance General",75
+5050,1050,"Tata AIG",90

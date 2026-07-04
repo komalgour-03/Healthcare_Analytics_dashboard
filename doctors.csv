@@ -1,0 +1,21 @@
+Doctor_ID,Doctor_Name,Department_ID,Experience_Years,Consultation_Fee
+101,"Dr. Arjun Sharma",1,15,1000.00
+102,"Dr. Priya Nair",1,10,900.00
+103,"Dr. Rahul Verma",2,12,950.00
+104,"Dr. Sneha Iyer",2,8,850.00
+105,"Dr. Vikram Singh",3,18,1200.00
+106,"Dr. Meera Joshi",3,9,900.00
+107,"Dr. Karan Patel",4,11,800.00
+108,"Dr. Anjali Rao",4,7,750.00
+109,"Dr. Rohan Gupta",5,13,950.00
+110,"Dr. Kavya Menon",5,6,800.00
+111,"Dr. Aditya Kumar",6,20,1100.00
+112,"Dr. Neha Reddy",6,14,950.00
+113,"Dr. Suresh Babu",7,16,1000.00
+114,"Dr. Pooja Shah",7,5,700.00
+115,"Dr. Amit Desai",8,17,1200.00
+116,"Dr. Divya Krishnan",8,10,950.00
+117,"Dr. Nitin Malhotra",6,9,850.00
+118,"Dr. Asha Kapoor",4,12,900.00
+119,"Dr. Sanjay Mishra",3,21,1300.00
+120,"Dr. Ritu Chawla",1,4,700.00

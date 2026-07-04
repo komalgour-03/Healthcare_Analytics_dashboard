@@ -1,0 +1,76 @@
+Treatment_ID,Appointment_ID,Treatment_Name,Treatment_Cost
+3001,2001,ECG,1500.00
+3002,2002,"Heart Checkup",2500.00
+3003,2003,"Brain MRI",6500.00
+3004,2004,"Neurological Consultation",1800.00
+3005,2005,"Knee X-Ray",2200.00
+3006,2006,Physiotherapy,2000.00
+3007,2007,"Child Vaccination",1200.00
+3008,2008,"General Checkup",800.00
+3009,2009,"Skin Allergy Test",1700.00
+3010,2010,"Acne Treatment",2500.00
+3011,2011,"Blood Test",900.00
+3012,2012,"Diabetes Checkup",1600.00
+3013,2013,"ENT Examination",1100.00
+3014,2014,"Ear Cleaning",700.00
+3015,2015,"Pregnancy Scan",3200.00
+3016,2016,Ultrasound,2800.00
+3017,2017,"General Consultation",600.00
+3018,2018,ECG,1500.00
+3019,2019,"Hip Replacement Consultation",4500.00
+3020,2020,"Skin Infection Treatment",2100.00
+3021,2021,"Blood Pressure Check",500.00
+3022,2022,"General Checkup",800.00
+3023,2023,"Sinus Treatment",1800.00
+3024,2024,"Child Health Checkup",1000.00
+3025,2025,"Bone Density Scan",2700.00
+3026,2026,"Eye Examination",900.00
+3027,2027,"Asthma Checkup",1400.00
+3028,2028,"Child Vaccination",1300.00
+3029,2029,"Skin Infection Treatment",2200.00
+3030,2030,"Thyroid Test",1800.00
+3031,2031,"General Consultation",700.00
+3032,2032,"Cholesterol Test",1200.00
+3033,2033,"Hearing Test",1500.00
+3034,2034,"Ear Infection Treatment",1700.00
+3035,2035,"Pregnancy Checkup",2800.00
+3036,2036,Ultrasound,3000.00
+3037,2037,"Blood Sugar Test",900.00
+3038,2038,ECG,1600.00
+3039,2039,"CT Scan",5500.00
+3040,2040,"Skin Allergy Test",1800.00
+3041,2041,"Blood Pressure Check",600.00
+3042,2042,"Diabetes Checkup",1700.00
+3043,2043,"Sinus Treatment",1900.00
+3044,2044,"Child Health Checkup",1100.00
+3045,2045,"Bone Fracture Consultation",3500.00
+3046,2046,Physiotherapy,2200.00
+3047,2047,"Heart Checkup",2600.00
+3048,2048,"Eye Examination",900.00
+3049,2049,"MRI Scan",7000.00
+3050,2050,"General Checkup",800.00
+3051,2051,"Cardiac Screening",2800.00
+3052,2052,"Blood Test",950.00
+3053,2053,"Brain CT Scan",6000.00
+3054,2054,"Migraine Consultation",1600.00
+3055,2055,"Joint Pain Evaluation",2400.00
+3056,2056,Physiotherapy,2100.00
+3057,2057,"Child Vaccination",1300.00
+3058,2058,"Pediatric Consultation",1000.00
+3059,2059,"Skin Allergy Test",1750.00
+3060,2060,"Acne Treatment",2600.00
+3061,2061,"Diabetes Checkup",1650.00
+3062,2062,"Blood Pressure Check",550.00
+3063,2063,"ENT Examination",1200.00
+3064,2064,"Hearing Assessment",1800.00
+3065,2065,"Pregnancy Ultrasound",3500.00
+3066,2066,"Ultrasound Scan",2900.00
+3067,2067,"General Consultation",700.00
+3068,2068,"Eye Examination",900.00
+3069,2069,"Fracture Follow-up",2000.00
+3070,2070,"Skin Infection Treatment",2200.00
+3071,2071,"Cholesterol Test",1250.00
+3072,2072,"General Checkup",850.00
+3073,2073,"Sinus Consultation",1850.00
+3074,2074,"Child Growth Assessment",1400.00
+3075,2075,"Bone Density Scan",3000.00
